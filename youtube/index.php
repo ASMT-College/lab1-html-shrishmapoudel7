@@ -11,7 +11,7 @@
 
     
     <?php
-        echo 'Hello from server: ' . date('Y-m-d'); // Outputs the current date in YYYY-MM-DD format
+        echo 'Hello from server: ' . date('Y-m-d'); 
     ?>
 
     
